@@ -44,3 +44,21 @@ asjdfklasdjfklaasf - alphabetical strings
 ![](random_object_reader_preview.PNG)
 
 -END-
+
+requirement:
+- python3
+
+Before running:
+- download this repo as zip
+- extract the programming_challenge_omnylitics.zip file.
+- open terminal and go to directory of this zip file and enter to programming_challenge_omnylitics folder.
+
+How to run random object writer program:
+1. open terminal on directory programming_challenge_omnylitics.
+2. run: python3 generate_random_object_file.py [--file_name some_file_name.txt] (argument inside of "[]" means optional, default value is "random_object.txt").
+3. check the generated file on the same folder.
+
+How to run random object reader program:
+1. open terminal on directory programming_challenge_omnylitics.
+2. run: python3 read_random_object_file.py some_file_name.txt (file name is the name of file that contains random object which generated before and it is required).
+3. the result will be printed on terminal.
