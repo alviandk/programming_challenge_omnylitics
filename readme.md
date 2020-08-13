@@ -41,6 +41,6 @@ asjdfklasdjfklaasf - alphabetical strings
 
   
 ## Preview
-![](random object reader preview.PNG)
+![](random_object_reader_preview.PNG)
 
 -END-
