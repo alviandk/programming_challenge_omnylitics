@@ -20,7 +20,7 @@ nmarcysfa900jkifh , 3.781, 2.11, ....
 
 ----------
 ## Preview
-![](random object writer preview.PNG)
+![](random_object_writer_preview.PNG)
 
 
   
