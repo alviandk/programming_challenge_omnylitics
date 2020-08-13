@@ -20,7 +20,7 @@ nmarcysfa900jkifh , 3.781, 2.11, ....
 
 ----------
 ## Preview
-![](img/random object writer preview.PNG)
+![](random object writer preview.PNG)
 
 
   
@@ -41,6 +41,6 @@ asjdfklasdjfklaasf - alphabetical strings
 
   
 ## Preview
-![](img/random object reader preview.PNG)
+![](random object reader preview.PNG)
 
 -END-
