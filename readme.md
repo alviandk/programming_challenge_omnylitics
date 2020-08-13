@@ -19,6 +19,9 @@ nmarcysfa900jkifh , 3.781, 2.11, ....
   
 
 ----------
+## Preview
+![](img/random object writer preview.PNG)
+
 
   
 Challenge B
@@ -37,5 +40,7 @@ asjdfklasdjfklaasf - alphabetical strings
 123192u3kjwekhf - alphanumeric
 
   
+## Preview
+![](img/random object reader preview.PNG)
 
 -END-
