@@ -62,3 +62,11 @@ How to run random object reader program:
 1. open terminal on directory programming_challenge_omnylitics.
 2. run: python3 read_random_object_file.py some_file_name.txt (file name is the name of file that contains random object which generated before and it is required).
 3. the result will be printed on terminal.
+
+Running test:
+1. open terminal on directory programming_challenge_omnylitics.
+2. run: python3 -m pytest
+3. test result will be printed on terminal.
+
+## Test Preview
+![](pytest.PNG)
